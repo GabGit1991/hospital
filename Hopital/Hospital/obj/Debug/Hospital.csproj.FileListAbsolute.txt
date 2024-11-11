@@ -1,0 +1,11 @@
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\bin\Debug\Hospital.exe
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\bin\Debug\Patient.dll
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\bin\Debug\Patient.pdb
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\bin\Debug\Patient.dll.config
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\obj\Debug\Hospital.csproj.CopyComplete
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\obj\Debug\Hospital.exe
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\gabri\Desktop\POEI Dev.NET_Mainframe\Code_Source\Hopital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
